@@ -17,3 +17,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 5. Berhasil menerapkan konsep Pagination dan Search
 
 6. Tersimpan dalam Git
+
+[Demo Video](https://drive.google.com/file/d/1qokb4SL1Fy6-znOnT_CyFqLpoGhEYNS3/view?usp=share_link)
